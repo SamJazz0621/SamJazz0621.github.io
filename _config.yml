@@ -1,0 +1,8 @@
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme # add this if you're using GitHub Pages
+
+title: All about Firmware 
+description: Site covers journey of learning about firmware 
+url: "https://username.github.io"
+baseurl: "" # Leave this blank for user GitHub Pages
