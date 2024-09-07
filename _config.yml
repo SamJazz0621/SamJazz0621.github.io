@@ -1,6 +1,5 @@
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme # add this if you're using GitHub Pages
+plugins: jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 title: All about Firmware 
 description: Site covers journey of learning about firmware 
